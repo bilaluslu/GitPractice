@@ -6,7 +6,7 @@ public class Seker {
 
         System.out.println("Tek sekerli ceeeeeeek");
 
-        System.out.println("Cok sekerli ceeeeeeek");
+        System.out.println("Az sekerli ceeeeeeek");
 
 
     }
